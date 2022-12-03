@@ -1,0 +1,26 @@
+#login-card{
+    background-image: url('../assets/login.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
+
+
+.logo{
+    padding-top:12rem;
+}
+
+
+.login-button{
+    border-radius: 30px;
+
+}
+
+.twitter-icon{
+    height:20px;
+    width:22px;
+    padding:0 ;
+    margin-right:75px
+}
